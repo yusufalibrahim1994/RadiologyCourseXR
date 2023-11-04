@@ -6,8 +6,8 @@ This is an open-source educational app to teach common radiology cases with the 
 <br /> 
 
 ### Available on Meta Quest AppLab:<br /> 
-https://www.meta.com/experiences/5164874793614235/?utm_source=oculus&utm_medium=share
-
+[https://www.meta.com/experiences/5164874793614235/?utm_source=oculus&utm_medium=share
+](https://www.meta.com/s/geDgfEqhI)
 ![6f9856505b7cec3e70882b9f126943db w400 h400](https://github.com/yusufalibrahim1994/RadiologyCourseXR/assets/57629778/238517f7-c1e6-4832-bbfc-eb0f5bd5625e)
 
 
